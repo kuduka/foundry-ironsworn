@@ -1,0 +1,3 @@
+files:
+  - source: /system/lang/en.json
+    translation: '%original_path%/cat.json'
